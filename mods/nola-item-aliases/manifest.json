@@ -1,0 +1,11 @@
+{
+  "name": "nola-item-aliases",
+  "version": "2026.10.27.1",
+  "files": [
+    {
+      "path": "r6/tweaks/zz_CompatibilityFixes/nola_item_code_aliases.yaml",
+      "sha256": "0bf200bc4c97adeebbb2124cae2583861d95a7e6c693b1d56e534e5ddc1b063d"
+    }
+  ],
+  "upstreamFilesModified": false
+}

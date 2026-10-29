@@ -1,0 +1,15 @@
+{
+  "name": "global-foot-state",
+  "version": "2026.10.27.4",
+  "files": [
+    {
+      "path": "bin/x64/plugins/cyber_engine_tweaks/mods/CompatibilityGlobalFootState/init.lua",
+      "sha256": "a296283011367385dcc45e8699ffcb05eed6810c734e96e45a18b39cea9f56b9"
+    },
+    {
+      "path": "r6/scripts/CompatibilityGlobalFeet/CompatibilityGlobalFeet.reds",
+      "sha256": "0d9028c96e1e1b350ee07c7edfba70bc13f7aa832849d81a6ad9c41fc4610835"
+    }
+  ],
+  "upstreamFilesModified": false
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "nola-item-aliases",
+    "version": "2026.10.27.1",
+    "package": "packages/nola-item-aliases-2026.10.27.1.zip",
+    "sha256": "3b5b0019c5ca1c18e86605238d0aaaad8bae4a194a63a79b667abd8eb5bcb424"
+  },
+  {
+    "name": "clothing-material-references",
+    "version": "2026.10.27.6",
+    "package": "packages/clothing-material-references-2026.10.27.6.zip",
+    "sha256": "fd190aad5b373dae25ddd9a6ce4e827774d4d4ac46ce03b90174305fe939d133"
+  },
+  {
+    "name": "global-foot-state",
+    "version": "2026.10.27.4",
+    "package": "packages/global-foot-state-2026.10.27.4.zip",
+    "sha256": "3c9ccc70da9c93f73f89a28941eb4b66ecd4f46888da44bba2cb3e791ec2e7c3"
+  },
+  {
+    "name": "uv-angel-body-tag",
+    "version": "2026.10.28.2",
+    "package": "packages/uv-angel-body-tag-2026.10.28.2.zip",
+    "sha256": "48adb589a700dc20ba865fcfdb71fbde998d4ce86268bfbf7e503767e0a40900"
+  }
+]

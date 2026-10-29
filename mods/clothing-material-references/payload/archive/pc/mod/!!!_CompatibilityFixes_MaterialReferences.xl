@@ -1,0 +1,903 @@
+# Verified actual material backing; named color references preserved; no CET diagnostics.
+resource:
+  fix:
+    "base\\adshield\\lingerie_pt\\meshes\\pma\\ads_pma_pt_harness_p.mesh":
+      names:
+        "material_01_multilayer": "black_gold"
+    "base\\adshield\\lingerie_pt\\meshes\\pma\\ads_pma_pt_harness_p_h.mesh":
+      names:
+        "material_01_multilayer": "black_gold"
+    "base\\adshield\\lingerie_pt\\meshes\\pma\\ads_pma_pt_harness_v.mesh":
+      names:
+        "material_01_multilayer": "black_gold"
+    "base\\adshield\\lingerie_pt\\meshes\\pma\\ads_pma_pt_harness_v_h.mesh":
+      names:
+        "material_01_multilayer": "black_gold"
+    "base\\adshield\\lingerie_pt\\meshes\\pma\\ads_pma_pt_panties_p.mesh":
+      names:
+        "material_01_multilayer": "black_gold"
+    "base\\adshield\\lingerie_pt\\meshes\\pma\\ads_pma_pt_panties_v.mesh":
+      names:
+        "material_01_multilayer": "pink_silver_fabric"
+    "base\\adshield\\lingerie_pt\\meshes\\pwa\\ads_pwa_pt_harness_p.mesh":
+      names:
+        "material_01_multilayer": "black_gold"
+    "base\\adshield\\lingerie_pt\\meshes\\pwa\\ads_pwa_pt_harness_p_h.mesh":
+      names:
+        "material_01_multilayer": "black_gold"
+    "base\\adshield\\lingerie_pt\\meshes\\pwa\\ads_pwa_pt_harness_p_n.mesh":
+      names:
+        "material_01_multilayer": "black_gold"
+    "base\\adshield\\lingerie_pt\\meshes\\pwa\\ads_pwa_pt_harness_v.mesh":
+      names:
+        "material_01_multilayer": "black_gold"
+    "base\\adshield\\lingerie_pt\\meshes\\pwa\\ads_pwa_pt_harness_v_h.mesh":
+      names:
+        "material_01_multilayer": "black_gold"
+    "base\\adshield\\lingerie_pt\\meshes\\pwa\\ads_pwa_pt_harness_v_n.mesh":
+      names:
+        "material_01_multilayer": "black_gold"
+    "base\\adshield\\lingerie_pt\\meshes\\pwa\\ads_pwa_pt_panties_p.mesh":
+      names:
+        "material_01_multilayer": "black_gold"
+    "base\\adshield\\lingerie_pt\\meshes\\pwa\\ads_pwa_pt_panties_v.mesh":
+      names:
+        "material_01_multilayer": "black_gold"
+    "base\\adshield\\tac_crop_top\\tac_crop_top\\ads_tac_crop_top.mesh":
+      names:
+        "material_01_multilayer": "bbcorps_ll"
+    "base\\adshield\\tac_crop_top\\tac_crop_top\\ads_tac_crop_top_kink.mesh":
+      names:
+        "material_01_multilayer": "bbcorps_ll"
+    "base\\adshield\\tac_crop_top\\tac_crop_top\\ads_tac_crop_top_nsfw.mesh":
+      names:
+        "material_01_multilayer": "bbcorps_ll"
+    "base\\beduw\\t0_beduw_demonia_swing.mesh":
+      names:
+        "material_01_multilayer": "black_glossy"
+    "base\\hyst\\hyst_evelyn_dress_w_angel.mesh":
+      names:
+        "material_01_multilayer": "micro_thong_black"
+    "base\\hyst\\hyst_evelyn_dress_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "micro_thong_black"
+    "base\\hyst\\hyst_evelyn_dress_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "micro_thong_black"
+    "base\\hyst\\hyst_evelyn_dress_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "micro_thong_black"
+    "base\\hyst\\hyst_evelyn_dress_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "micro_thong_black"
+    "base\\hyst\\hyst_evelyn_dress_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "micro_thong_black"
+    "base\\hyst\\hyst_evelyn_dress_w_eve.mesh":
+      names:
+        "material_01_multilayer": "micro_thong_black"
+    "base\\hyst\\hyst_evelyn_dress_w_rb.mesh":
+      names:
+        "material_01_multilayer": "micro_thong_black"
+    "base\\hyst\\hyst_long_skirt_w_angel.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_long_skirt_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_long_skirt_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_long_skirt_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_long_skirt_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_long_skirt_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_long_skirt_w_eve.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_long_skirt_w_lush.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_long_skirt_w_rb.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_mini_skirt_w_angel.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_mini_skirt_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_mini_skirt_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_mini_skirt_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_mini_skirt_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_mini_skirt_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_mini_skirt_w_eve.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_mini_skirt_w_lush.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_mini_skirt_w_rb.mesh":
+      names:
+        "material_01_multilayer": "hyst_mini_skirt_black"
+    "base\\hyst\\hyst_sandal_glam.mesh":
+      names:
+        "material_01_multilayer": "gold_mat"
+    "base\\hyst\\hyst_summer_suit_w_angel.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\hyst\\hyst_summer_suit_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\hyst\\hyst_summer_suit_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\hyst\\hyst_summer_suit_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\hyst\\hyst_summer_suit_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\hyst\\hyst_summer_suit_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\hyst\\hyst_summer_suit_w_eve.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\hyst\\hyst_summer_suit_w_rb.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\i1_nd_aquelyras_goth_belt_w_angel.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\i1_nd_aquelyras_goth_belt_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\i1_nd_aquelyras_goth_belt_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\i1_nd_aquelyras_goth_belt_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\i1_nd_aquelyras_goth_belt_w_lush.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\i1_nd_aquelyras_goth_belt_w_rb.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\i1_nd_aquelyras_goth_necklace_w_angel.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\i1_nd_aquelyras_goth_necklace_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\i1_nd_aquelyras_goth_necklace_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\i1_nd_aquelyras_goth_necklace_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\i1_nd_aquelyras_goth_necklace_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\i1_nd_aquelyras_goth_necklace_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\i1_nd_aquelyras_goth_necklace_w_lush.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\i1_nd_aquelyras_goth_necklace_w_small.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\l1_nd_aquelyras_office_lady_skirt_w_angel.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\l1_nd_aquelyras_office_lady_skirt_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\l1_nd_aquelyras_office_lady_skirt_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\l1_nd_aquelyras_office_lady_skirt_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\l1_nd_aquelyras_office_lady_skirt_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\l1_nd_aquelyras_office_lady_skirt_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\l1_nd_aquelyras_office_lady_skirt_w_lush.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\l1_nd_aquelyras_office_lady_skirt_w_rb.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\l1_nd_loose_pants_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_loose_pants_black"
+    "base\\nd_base\\nd_absolute_mini_jacket_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_absolute_mini_jacket_latex_black"
+    "base\\nd_base\\nd_absolute_mini_jacket_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_absolute_mini_jacket_latex_black"
+    "base\\nd_base\\nd_absolute_mini_jacket_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "nd_absolute_mini_jacket_latex_black"
+    "base\\nd_base\\nd_absolute_mini_jacket_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "nd_absolute_mini_jacket_latex_black"
+    "base\\nd_base\\nd_absolute_mini_jacket_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "nd_absolute_mini_jacket_latex_black"
+    "base\\nd_base\\nd_absolute_mini_jacket_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "nd_absolute_mini_jacket_latex_black"
+    "base\\nd_base\\nd_absolute_mini_jacket_w_lush.mesh":
+      names:
+        "material_01_multilayer": "nd_absolute_mini_jacket_latex_black"
+    "base\\nd_base\\nd_absolute_mini_jacket_w_small.mesh":
+      names:
+        "material_01_multilayer": "nd_absolute_mini_jacket_latex_black"
+    "base\\nd_base\\nd_absolute_mini_skirt_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_absolute_mini_outfit_metal"
+    "base\\nd_base\\nd_absolute_mini_skirt_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_absolute_mini_outfit_metal"
+    "base\\nd_base\\nd_absolute_mini_skirt_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "nd_absolute_mini_outfit_metal"
+    "base\\nd_base\\nd_absolute_mini_skirt_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "nd_absolute_mini_outfit_metal"
+    "base\\nd_base\\nd_absolute_mini_skirt_w_lush.mesh":
+      names:
+        "material_01_multilayer": "nd_absolute_mini_outfit_metal"
+    "base\\nd_base\\nd_absolute_mini_skirt_w_rb.mesh":
+      names:
+        "material_01_multilayer": "nd_absolute_mini_outfit_metal"
+    "base\\nd_base\\nd_aquelyras_chic_heels_l_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\nd_aquelyras_chic_heels_l_w_lush.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\nd_aquelyras_chic_heels_r_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\nd_aquelyras_chic_heels_r_w_lush.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\nd_aquelyras_girly_bag_w_angel.mesh":
+      names:
+        "material_01_multilayer": "metall"
+    "base\\nd_base\\nd_aquelyras_girly_bag_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "metall"
+    "base\\nd_base\\nd_aquelyras_girly_bag_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "metall"
+    "base\\nd_base\\nd_aquelyras_girly_bag_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "metall"
+    "base\\nd_base\\nd_aquelyras_girly_bag_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "metall"
+    "base\\nd_base\\nd_aquelyras_girly_bag_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "metall"
+    "base\\nd_base\\nd_aquelyras_girly_bag_w_small.mesh":
+      names:
+        "material_01_multilayer": "metall"
+    "base\\nd_base\\nd_aquelyras_punk_shoes_l_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "ffffff"
+    "base\\nd_base\\nd_aquelyras_punk_shoes_l_w_lush.mesh":
+      names:
+        "material_01_multilayer": "ffffff"
+    "base\\nd_base\\nd_aquelyras_punk_shoes_r_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "ffffff"
+    "base\\nd_base\\nd_aquelyras_punk_shoes_r_w_lush.mesh":
+      names:
+        "material_01_multilayer": "ffffff"
+    "base\\nd_base\\nd_aquelyras_street_top_w_angel.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_aquelyras_street_top_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_aquelyras_street_top_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_aquelyras_street_top_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_aquelyras_street_top_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_aquelyras_street_top_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_aquelyras_street_top_w_lush.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_aquelyras_street_top_w_small.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_aquelyras_swimwear_devil_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_devil_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_devil_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_devil_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_devil_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_devil_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_devil_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_devil_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_devil_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_devil_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_devil_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_devil_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_devil_w_lush.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_devil_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_devil_w_rb.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_devil_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_devil_w_small.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_devil_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_mystique_bottom_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_mystique_bottom_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_mystique_bottom_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_mystique_bottom_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_mystique_bottom_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_mystique_bottom_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_mystique_bottom_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_mystique_bottom_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_mystique_bottom_w_lush.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_mystique_bottom_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_mystique_bottom_w_rb.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_mystique_bottom_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_mystique_top_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_mystique_top_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_mystique_top_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_mystique_top_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_mystique_top_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_mystique_top_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_mystique_top_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_mystique_top_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_mystique_top_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_mystique_top_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_mystique_top_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_mystique_top_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_mystique_top_w_lush.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_mystique_top_black"
+    "base\\nd_base\\nd_aquelyras_swimwear_mystique_top_w_small.mesh":
+      names:
+        "material_01_multilayer": "nd_aquelyras_swimwear_mystique_top_black"
+    "base\\nd_base\\nd_barbed_cross_bracelet_l_m_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_barbed_cross_bracelet_l_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_barbed_cross_bracelet_r_m_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_barbed_cross_bracelet_r_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_barbed_cross_collar_m_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_barbed_cross_collar_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_barbed_crossmoon_bracelet_l_m_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_barbed_crossmoon_bracelet_l_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_barbed_crossmoon_bracelet_r_m_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_barbed_crossmoon_bracelet_r_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_barbed_crossmoon_collar_m_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_barbed_crossmoon_collar_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_barbed_moon_bracelet_l_m_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_barbed_moon_bracelet_l_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_barbed_moon_bracelet_r_m_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_barbed_moon_bracelet_r_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_barbed_moon_collar_m_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_barbed_moon_collar_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_barbed_accessories_gold"
+    "base\\nd_base\\nd_beach_top_w_angel.mesh":
+      names:
+        "material_01_multilayer": "blue"
+    "base\\nd_base\\nd_beach_top_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "blue"
+    "base\\nd_base\\nd_beach_top_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "blue"
+    "base\\nd_base\\nd_beach_top_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "blue"
+    "base\\nd_base\\nd_beach_top_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "blue"
+    "base\\nd_base\\nd_beach_top_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "blue"
+    "base\\nd_base\\nd_beach_top_w_lush.mesh":
+      names:
+        "material_01_multilayer": "blue"
+    "base\\nd_base\\nd_beach_top_w_small.mesh":
+      names:
+        "material_01_multilayer": "blue"
+    "base\\nd_base\\nd_belly_chain_hearts2_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_belly_chain_hearts_gold"
+    "base\\nd_base\\nd_belly_chain_hearts2_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_belly_chain_hearts_gold"
+    "base\\nd_base\\nd_belly_chain_hearts2_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "nd_belly_chain_hearts_gold"
+    "base\\nd_base\\nd_belly_chain_hearts2_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "nd_belly_chain_hearts_gold"
+    "base\\nd_base\\nd_belly_chain_hearts2_w_lush.mesh":
+      names:
+        "material_01_multilayer": "nd_belly_chain_hearts_gold"
+    "base\\nd_base\\nd_belly_chain_hearts2_w_rb.mesh":
+      names:
+        "material_01_multilayer": "nd_belly_chain_hearts_gold"
+    "base\\nd_base\\nd_belly_chain_hearts_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_belly_chain_hearts_gold"
+    "base\\nd_base\\nd_belly_chain_hearts_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_belly_chain_hearts_gold"
+    "base\\nd_base\\nd_belly_chain_hearts_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "nd_belly_chain_hearts_gold"
+    "base\\nd_base\\nd_belly_chain_hearts_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "nd_belly_chain_hearts_gold"
+    "base\\nd_base\\nd_belly_chain_hearts_w_lush.mesh":
+      names:
+        "material_01_multilayer": "nd_belly_chain_hearts_gold"
+    "base\\nd_base\\nd_belly_chain_hearts_w_rb.mesh":
+      names:
+        "material_01_multilayer": "nd_belly_chain_hearts_gold"
+    "base\\nd_base\\nd_casual_shirt_loose_w_angel.mesh":
+      names:
+        "material_01_multilayer": "0"
+    "base\\nd_base\\nd_casual_shirt_tucked_w_angel.mesh":
+      names:
+        "material_01_multilayer": "0"
+    "base\\nd_base\\nd_casual_shorts_w_angel.mesh":
+      names:
+        "material_01_multilayer": "plaid_burgundy"
+    "base\\nd_base\\nd_drops_natural_w_angel.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_drops_natural_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_drops_natural_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_drops_natural_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_drops_natural_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_drops_natural_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_drops_natural_w_lush.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_drops_natural_w_small.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_drops_w_angel.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_drops_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_drops_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_drops_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_drops_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_drops_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_drops_w_lush.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_drops_w_small.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_evelyn_crop_coat_w_angel.mesh":
+      names:
+        "material_01_multilayer": "blacksilk"
+    "base\\nd_base\\nd_evelyn_long_coat_w_angel.mesh":
+      names:
+        "material_01_multilayer": "blacksilk"
+    "base\\nd_base\\nd_loose_top_w_angel.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_loose_top_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_loose_top_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_loose_top_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_loose_top_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_loose_top_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_loose_top_w_lush.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_loose_top_w_small.mesh":
+      names:
+        "material_01_multilayer": "1"
+    "base\\nd_base\\nd_moon_anklet_l_w_base_body__flat.mesh":
+      names:
+        "material_01_multilayer": "nd_moon_accessories_black_gold"
+    "base\\nd_base\\nd_moon_anklet_l_w_base_body__flat_shoes.mesh":
+      names:
+        "material_01_multilayer": "nd_moon_accessories_black_gold"
+    "base\\nd_base\\nd_moon_anklet_l_w_base_body__high_heels.mesh":
+      names:
+        "material_01_multilayer": "nd_moon_accessories_black_gold"
+    "base\\nd_base\\nd_moon_anklet_l_w_base_body__lifted.mesh":
+      names:
+        "material_01_multilayer": "nd_moon_accessories_black_gold"
+    "base\\nd_base\\nd_moon_anklet_r_w_base_body__flat.mesh":
+      names:
+        "material_01_multilayer": "nd_moon_accessories_black_gold"
+    "base\\nd_base\\nd_moon_anklet_r_w_base_body__flat_shoes.mesh":
+      names:
+        "material_01_multilayer": "nd_moon_accessories_black_gold"
+    "base\\nd_base\\nd_moon_anklet_r_w_base_body__high_heels.mesh":
+      names:
+        "material_01_multilayer": "nd_moon_accessories_black_gold"
+    "base\\nd_base\\nd_moon_anklet_r_w_base_body__lifted.mesh":
+      names:
+        "material_01_multilayer": "nd_moon_accessories_black_gold"
+    "base\\nd_base\\nd_moon_bracelet_l_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_moon_accessories_black_gold"
+    "base\\nd_base\\nd_moon_bracelet_r_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_moon_accessories_black_gold"
+    "base\\nd_base\\nd_moon_choker_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_moon_accessories_black_gold"
+    "base\\nd_base\\nd_offset_straps_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_offset_straps_black"
+    "base\\nd_base\\nd_offset_top_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_offset_top_black"
+    "base\\nd_base\\nd_one_shoulder_w_angel.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\nd_one_shoulder_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\nd_one_shoulder_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\nd_one_shoulder_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\nd_one_shoulder_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\nd_one_shoulder_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\nd_one_shoulder_w_lush.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\nd_one_shoulder_w_small.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\nd_plaid_mini_skirt_w_angel.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\nd_plaid_mini_skirt_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\nd_plaid_mini_skirt_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\nd_plaid_mini_skirt_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\nd_plaid_mini_skirt_w_lush.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\nd_plaid_mini_skirt_w_rb.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\nd_romantic_lingerie_belt_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_garterbelt_black"
+    "base\\nd_base\\nd_romantic_lingerie_belt_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_garterbelt_black"
+    "base\\nd_base\\nd_romantic_lingerie_belt_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_garterbelt_black"
+    "base\\nd_base\\nd_romantic_lingerie_belt_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_garterbelt_black"
+    "base\\nd_base\\nd_romantic_lingerie_belt_w_lush.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_garterbelt_black"
+    "base\\nd_base\\nd_romantic_lingerie_belt_w_rb.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_garterbelt_black"
+    "base\\nd_base\\nd_romantic_lingerie_bra_natural_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_bra_black"
+    "base\\nd_base\\nd_romantic_lingerie_bra_natural_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_bra_black"
+    "base\\nd_base\\nd_romantic_lingerie_bra_natural_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_bra_black"
+    "base\\nd_base\\nd_romantic_lingerie_bra_natural_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_bra_black"
+    "base\\nd_base\\nd_romantic_lingerie_bra_natural_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_bra_black"
+    "base\\nd_base\\nd_romantic_lingerie_bra_natural_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_bra_black"
+    "base\\nd_base\\nd_romantic_lingerie_bra_natural_w_small.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_bra_black"
+    "base\\nd_base\\nd_romantic_lingerie_bra_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_bra_black"
+    "base\\nd_base\\nd_romantic_lingerie_bra_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_bra_black"
+    "base\\nd_base\\nd_romantic_lingerie_bra_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_bra_black"
+    "base\\nd_base\\nd_romantic_lingerie_bra_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_bra_black"
+    "base\\nd_base\\nd_romantic_lingerie_bra_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_bra_black"
+    "base\\nd_base\\nd_romantic_lingerie_bra_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_bra_black"
+    "base\\nd_base\\nd_romantic_lingerie_bra_w_lush.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_bra_black"
+    "base\\nd_base\\nd_romantic_lingerie_bra_w_small.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_bra_black"
+    "base\\nd_base\\nd_romantic_lingerie_garters_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_garterbelt_black"
+    "base\\nd_base\\nd_romantic_lingerie_garters_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_garterbelt_black"
+    "base\\nd_base\\nd_romantic_lingerie_garters_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_garterbelt_black"
+    "base\\nd_base\\nd_romantic_lingerie_garters_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_garterbelt_black"
+    "base\\nd_base\\nd_romantic_lingerie_garters_w_lush.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_garterbelt_black"
+    "base\\nd_base\\nd_romantic_lingerie_garters_w_rb.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_garterbelt_black"
+    "base\\nd_base\\nd_romantic_lingerie_panties_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_panties_black"
+    "base\\nd_base\\nd_romantic_lingerie_panties_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_panties_black"
+    "base\\nd_base\\nd_romantic_lingerie_panties_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_panties_black"
+    "base\\nd_base\\nd_romantic_lingerie_panties_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_panties_black"
+    "base\\nd_base\\nd_romantic_lingerie_panties_w_lush.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_panties_black"
+    "base\\nd_base\\nd_romantic_lingerie_panties_w_rb.mesh":
+      names:
+        "material_01_multilayer": "nd_romantic_lingerie_panties_black"
+    "base\\nd_base\\nd_shiny_top_w_angel.mesh":
+      names:
+        "material_01_multilayer": "mmm"
+    "base\\nd_base\\nd_spiked_collar_m_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_spiked_collar_black_gold"
+    "base\\nd_base\\nd_spiked_collar_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "nd_spiked_collar_black_gold"
+    "base\\nd_base\\nd_tangled_bra_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_tangled_bra_a"
+    "base\\nd_base\\nd_tangled_shorts_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_tangled_shorts_a"
+    "base\\nd_base\\t1_nd_aquelyras_office_lady_corset_w_angel.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\t1_nd_aquelyras_office_lady_corset_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\t1_nd_aquelyras_office_lady_corset_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\t1_nd_aquelyras_office_lady_corset_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\t1_nd_aquelyras_office_lady_corset_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\t1_nd_aquelyras_office_lady_corset_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\t1_nd_aquelyras_office_lady_corset_w_lush.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\t1_nd_aquelyras_office_lady_corset_w_small.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\t1_nd_loose_shirt_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_loose_shirt_black"
+    "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_angel.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_base_body.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_ebb.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_ebbp.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_ebbprb.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_ebbrb.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_lush.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_small.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_solo_og.mesh":
+      names:
+        "material_01_multilayer": "material_05_multilayer"
+    "base\\nd_base\\t2_nd_hyst_crb_w_angel.mesh":
+      names:
+        "material_01_multilayer": "black"
+    "base\\nd_base\\t2_nd_loose_suspender_w_angel.mesh":
+      names:
+        "material_01_multilayer": "nd_loose_pants_black"
+    "base\\peachu\\minibra\\peachu_minibra.mesh":
+      names:
+        "material_01_multilayer": "material_14_pbr"
+    "base\\peachu\\minipantie\\peachu_minipantie.mesh":
+      names:
+        "material_01_multilayer": "material_14_pbr"
+    "base\\rosslin\\fem\\plaguefbelt.mesh":
+      names:
+        "material_01_multilayer": "plaguefbelt"
+    "base\\rosslin\\fem\\plaguefbody.mesh":
+      names:
+        "material_01_multilayer": "plaguefbody"
+    "base\\rosslin\\fem\\plaguefboots.mesh":
+      names:
+        "material_01_multilayer": "plaguefboots"
+    "base\\rosslin\\fem\\plaguefgloves.mesh":
+      names:
+        "material_01_multilayer": "plaguefgloves"
+    "base\\rosslin\\fem\\plaguefhood.mesh":
+      names:
+        "material_01_multilayer": "plaguefhood"
+    "base\\rosslin\\fem\\plaguefjacket.mesh":
+      names:
+        "material_01_multilayer": "plaguefcoat"
+    "base\\rosslin\\fem\\plaguefmask.mesh":
+      names:
+        "material_01_multilayer": "plaguefmask"
+    "base\\rosslin\\mockingbird.mesh":
+      names:
+        "material_01_multilayer": "birdblack"
+    "base\\rosslin\\negan_f.mesh":
+      names:
+        "material_01_multilayer": "neganfberry"
+    "base\\rosslin\\shaundis.mesh":
+      names:
+        "material_01_multilayer": "shaundiblack"

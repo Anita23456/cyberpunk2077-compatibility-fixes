@@ -1,0 +1,1818 @@
+{
+  "name": "clothing-material-references",
+  "version": "2026.10.27.6",
+  "files": [
+    {
+      "path": "archive/pc/mod/!!!_CompatibilityFixes_MaterialReferences.xl",
+      "sha256": "5ab7429a73fd80b969226eb26ee4a9d9ed3f3a409652eaed9cb356dc571809e8"
+    },
+    {
+      "path": "archive/pc/mod/!!!_CompatibilityFixes_ND_MaterialSlots.archive",
+      "sha256": "275ab3d9a97ab4b5c71abd3eee0912d931ee70ca65a40be53a03b62a8495954f"
+    }
+  ],
+  "upstreamFilesModified": false,
+  "mappings": [
+    {
+      "path": "base\\hyst\\hyst_long_skirt_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_mini_skirt_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_long_skirt_w_rb.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_mini_skirt_w_rb.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_mini_skirt_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_long_skirt_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_long_skirt_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_long_skirt_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_mini_skirt_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_mini_skirt_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_mini_skirt_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_long_skirt_w_eve.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_long_skirt_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_long_skirt_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_mini_skirt_w_eve.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_mini_skirt_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_mini_skirt_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_long_skirt_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "hyst_mini_skirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_absolute_mini_jacket_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_absolute_mini_jacket_latex_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_absolute_mini_skirt_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_absolute_mini_outfit_metal",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_absolute_mini_skirt_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_absolute_mini_outfit_metal",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_absolute_mini_jacket_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_absolute_mini_jacket_latex_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_absolute_mini_jacket_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_absolute_mini_jacket_latex_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_absolute_mini_jacket_w_small.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_absolute_mini_jacket_latex_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_absolute_mini_skirt_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_absolute_mini_outfit_metal",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_absolute_mini_jacket_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_absolute_mini_jacket_latex_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_absolute_mini_jacket_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_absolute_mini_jacket_latex_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_absolute_mini_skirt_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_absolute_mini_outfit_metal",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_absolute_mini_skirt_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_absolute_mini_outfit_metal",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_absolute_mini_skirt_w_rb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_absolute_mini_outfit_metal",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_absolute_mini_jacket_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_absolute_mini_jacket_latex_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_absolute_mini_jacket_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_absolute_mini_jacket_latex_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_chic_heels_r_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_chic_heels_r_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_small.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_solo_og.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t2_nd_aquelyras_combat_vest_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\i1_nd_aquelyras_goth_necklace_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\i1_nd_aquelyras_goth_necklace_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\i1_nd_aquelyras_goth_belt_w_rb.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\i1_nd_aquelyras_goth_belt_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\i1_nd_aquelyras_goth_necklace_w_small.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\i1_nd_aquelyras_goth_necklace_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\i1_nd_aquelyras_goth_belt_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\i1_nd_aquelyras_goth_necklace_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\i1_nd_aquelyras_goth_necklace_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\i1_nd_aquelyras_goth_necklace_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\i1_nd_aquelyras_goth_belt_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\i1_nd_aquelyras_goth_belt_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\i1_nd_aquelyras_goth_necklace_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\i1_nd_aquelyras_goth_belt_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t1_nd_aquelyras_office_lady_corset_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\l1_nd_aquelyras_office_lady_skirt_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t1_nd_aquelyras_office_lady_corset_w_small.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\l1_nd_aquelyras_office_lady_skirt_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t1_nd_aquelyras_office_lady_corset_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t1_nd_aquelyras_office_lady_corset_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t1_nd_aquelyras_office_lady_corset_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\l1_nd_aquelyras_office_lady_skirt_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t1_nd_aquelyras_office_lady_corset_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t1_nd_aquelyras_office_lady_corset_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\l1_nd_aquelyras_office_lady_skirt_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\l1_nd_aquelyras_office_lady_skirt_w_rb.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t1_nd_aquelyras_office_lady_corset_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\l1_nd_aquelyras_office_lady_skirt_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\l1_nd_aquelyras_office_lady_skirt_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\l1_nd_aquelyras_office_lady_skirt_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_punk_shoes_r_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "ffffff",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_punk_shoes_r_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "ffffff",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_punk_shoes_l_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "ffffff",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_punk_shoes_l_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "ffffff",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_street_top_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_street_top_w_small.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_street_top_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_street_top_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_street_top_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_street_top_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_street_top_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_street_top_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_devil_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_devil_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_devil_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_devil_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_devil_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_devil_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_devil_w_rb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_devil_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_devil_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_devil_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_devil_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_devil_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_devil_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_devil_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_devil_w_small.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_devil_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_devil_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_devil_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_mystique_bottom_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_mystique_bottom_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_mystique_top_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_mystique_top_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_mystique_bottom_w_rb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_mystique_bottom_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_mystique_top_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_mystique_top_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_mystique_bottom_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_mystique_bottom_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_mystique_top_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_mystique_top_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_mystique_bottom_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_mystique_bottom_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_mystique_top_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_mystique_top_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_mystique_bottom_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_mystique_bottom_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_mystique_top_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_mystique_top_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_mystique_top_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_mystique_top_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_mystique_bottom_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_mystique_bottom_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_mystique_top_w_small.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_mystique_top_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_swimwear_mystique_top_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_aquelyras_swimwear_mystique_top_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_moon_bracelet_r_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_crossmoon_bracelet_l_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_cross_bracelet_l_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_moon_collar_m_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_moon_bracelet_l_m_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_crossmoon_bracelet_r_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_cross_collar_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_moon_bracelet_r_m_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_cross_bracelet_r_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_cross_bracelet_l_m_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_cross_bracelet_r_m_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_cross_collar_m_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_crossmoon_collar_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_crossmoon_collar_m_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_moon_collar_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_moon_bracelet_l_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_crossmoon_bracelet_l_m_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_barbed_crossmoon_bracelet_r_m_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_barbed_accessories_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_belly_chain_hearts_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_belly_chain_hearts_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_belly_chain_hearts2_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_belly_chain_hearts_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_belly_chain_hearts2_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_belly_chain_hearts_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_belly_chain_hearts_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_belly_chain_hearts_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_belly_chain_hearts2_w_rb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_belly_chain_hearts_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_belly_chain_hearts2_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_belly_chain_hearts_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_belly_chain_hearts2_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_belly_chain_hearts_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_belly_chain_hearts_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_belly_chain_hearts_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_belly_chain_hearts_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_belly_chain_hearts_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_belly_chain_hearts2_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_belly_chain_hearts_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_belly_chain_hearts_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_belly_chain_hearts_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_belly_chain_hearts_w_rb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_belly_chain_hearts_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_casual_shirt_loose_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "0",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_casual_shirt_tucked_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "0",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_drops_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_drops_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_drops_natural_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_drops_natural_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_drops_w_small.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_drops_natural_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_drops_natural_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_drops_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_drops_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_drops_natural_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_drops_natural_w_small.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_drops_natural_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_drops_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_drops_natural_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_drops_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_drops_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t2_nd_loose_suspender_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_loose_pants_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\l1_nd_loose_pants_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_loose_pants_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t1_nd_loose_shirt_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_loose_shirt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_loose_top_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_loose_top_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_loose_top_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_loose_top_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_loose_top_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_loose_top_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_loose_top_w_small.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_loose_top_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "1",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_moon_anklet_l_w_base_body__flat_shoes.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_moon_accessories_black_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_moon_choker_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_moon_accessories_black_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_moon_anklet_r_w_base_body__flat_shoes.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_moon_accessories_black_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_moon_anklet_r_w_base_body__lifted.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_moon_accessories_black_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_moon_anklet_l_w_base_body__lifted.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_moon_accessories_black_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_moon_bracelet_r_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_moon_accessories_black_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_moon_anklet_r_w_base_body__high_heels.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_moon_accessories_black_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_moon_anklet_r_w_base_body__flat.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_moon_accessories_black_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_moon_bracelet_l_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_moon_accessories_black_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_moon_anklet_l_w_base_body__high_heels.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_moon_accessories_black_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_moon_anklet_l_w_base_body__flat.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_moon_accessories_black_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_offset_straps_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_offset_straps_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_offset_top_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_offset_top_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_panties_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_panties_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_panties_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_panties_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_garters_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_garterbelt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_bra_natural_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_bra_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_belt_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_garterbelt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_garters_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_garterbelt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_bra_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_bra_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_belt_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_garterbelt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_panties_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_panties_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_belt_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_garterbelt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_bra_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_bra_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_belt_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_garterbelt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_panties_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_panties_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_bra_natural_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_bra_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_bra_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_bra_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_bra_natural_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_bra_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_bra_w_small.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_bra_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_bra_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_bra_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_bra_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_bra_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_panties_w_rb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_panties_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_garters_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_garterbelt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_bra_natural_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_bra_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_bra_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_bra_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_bra_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_bra_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_bra_natural_w_small.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_bra_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_panties_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_panties_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_bra_natural_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_bra_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_garters_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_garterbelt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_bra_natural_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_bra_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_garters_w_rb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_garterbelt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_belt_w_rb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_garterbelt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_belt_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_garterbelt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_romantic_lingerie_garters_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_romantic_lingerie_garterbelt_black",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_spiked_collar_m_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_spiked_collar_black_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_spiked_collar_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_spiked_collar_black_gold",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_tangled_bra_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_tangled_bra_a",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\peachu\\minibra\\peachu_minibra.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_14_pbr",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\peachu\\minipantie\\peachu_minipantie.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_14_pbr",
+      "rule": "All affected slots are outside render chunks or at most 3 vertices/3 indices; original name absent in every deployed provider"
+    },
+    {
+      "path": "base\\adshield\\lingerie_pt\\meshes\\pma\\ads_pma_pt_harness_p_h.mesh",
+      "from": "material_01_multilayer",
+      "to": "black_gold",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\adshield\\lingerie_pt\\meshes\\pma\\ads_pma_pt_harness_p.mesh",
+      "from": "material_01_multilayer",
+      "to": "black_gold",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\adshield\\lingerie_pt\\meshes\\pma\\ads_pma_pt_panties_p.mesh",
+      "from": "material_01_multilayer",
+      "to": "black_gold",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\adshield\\lingerie_pt\\meshes\\pwa\\ads_pwa_pt_harness_p_h.mesh",
+      "from": "material_01_multilayer",
+      "to": "black_gold",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\adshield\\lingerie_pt\\meshes\\pma\\ads_pma_pt_harness_v_h.mesh",
+      "from": "material_01_multilayer",
+      "to": "black_gold",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\adshield\\lingerie_pt\\meshes\\pwa\\ads_pwa_pt_harness_v_n.mesh",
+      "from": "material_01_multilayer",
+      "to": "black_gold",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\adshield\\lingerie_pt\\meshes\\pma\\ads_pma_pt_panties_v.mesh",
+      "from": "material_01_multilayer",
+      "to": "pink_silver_fabric",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\adshield\\lingerie_pt\\meshes\\pma\\ads_pma_pt_harness_v.mesh",
+      "from": "material_01_multilayer",
+      "to": "black_gold",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\adshield\\lingerie_pt\\meshes\\pwa\\ads_pwa_pt_harness_p_n.mesh",
+      "from": "material_01_multilayer",
+      "to": "black_gold",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\adshield\\lingerie_pt\\meshes\\pwa\\ads_pwa_pt_panties_v.mesh",
+      "from": "material_01_multilayer",
+      "to": "black_gold",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\adshield\\lingerie_pt\\meshes\\pwa\\ads_pwa_pt_harness_p.mesh",
+      "from": "material_01_multilayer",
+      "to": "black_gold",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\adshield\\lingerie_pt\\meshes\\pwa\\ads_pwa_pt_harness_v.mesh",
+      "from": "material_01_multilayer",
+      "to": "black_gold",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\adshield\\lingerie_pt\\meshes\\pwa\\ads_pwa_pt_panties_p.mesh",
+      "from": "material_01_multilayer",
+      "to": "black_gold",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\adshield\\lingerie_pt\\meshes\\pwa\\ads_pwa_pt_harness_v_h.mesh",
+      "from": "material_01_multilayer",
+      "to": "black_gold",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\adshield\\tac_crop_top\\tac_crop_top\\ads_tac_crop_top_kink.mesh",
+      "from": "material_01_multilayer",
+      "to": "bbcorps_ll",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\adshield\\tac_crop_top\\tac_crop_top\\ads_tac_crop_top.mesh",
+      "from": "material_01_multilayer",
+      "to": "bbcorps_ll",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\adshield\\tac_crop_top\\tac_crop_top\\ads_tac_crop_top_nsfw.mesh",
+      "from": "material_01_multilayer",
+      "to": "bbcorps_ll",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\beduw\\t0_beduw_demonia_swing.mesh",
+      "from": "material_01_multilayer",
+      "to": "black_glossy",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_evelyn_dress_w_rb.mesh",
+      "from": "material_01_multilayer",
+      "to": "micro_thong_black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_evelyn_dress_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "micro_thong_black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_evelyn_dress_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "micro_thong_black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_evelyn_dress_w_eve.mesh",
+      "from": "material_01_multilayer",
+      "to": "micro_thong_black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_evelyn_dress_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "micro_thong_black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_evelyn_dress_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "micro_thong_black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_evelyn_dress_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "micro_thong_black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_evelyn_dress_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "micro_thong_black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_summer_suit_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_summer_suit_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_summer_suit_w_eve.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_summer_suit_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_summer_suit_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_summer_suit_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_summer_suit_w_rb.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_summer_suit_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_chic_heels_l_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_chic_heels_l_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_girly_bag_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "metall",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_girly_bag_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "metall",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_girly_bag_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "metall",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_girly_bag_w_small.mesh",
+      "from": "material_01_multilayer",
+      "to": "metall",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_girly_bag_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "metall",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_girly_bag_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "metall",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_aquelyras_girly_bag_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "metall",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_beach_top_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "blue",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_beach_top_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "blue",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_beach_top_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "blue",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_beach_top_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "blue",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_beach_top_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "blue",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_beach_top_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "blue",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_beach_top_w_small.mesh",
+      "from": "material_01_multilayer",
+      "to": "blue",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_beach_top_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "blue",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_casual_shorts_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "plaid_burgundy",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_evelyn_long_coat_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "blacksilk",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_evelyn_crop_coat_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "blacksilk",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\t2_nd_hyst_crb_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_one_shoulder_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_one_shoulder_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_one_shoulder_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_one_shoulder_w_ebb.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_one_shoulder_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_one_shoulder_w_ebbp.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_one_shoulder_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_one_shoulder_w_small.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_plaid_mini_skirt_w_base_body.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_plaid_mini_skirt_w_ebbprb.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_plaid_mini_skirt_w_lush.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_plaid_mini_skirt_w_rb.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_plaid_mini_skirt_w_ebbrb.mesh",
+      "from": "material_01_multilayer",
+      "to": "black",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_plaid_mini_skirt_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "material_05_multilayer",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_shiny_top_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "mmm",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\nd_base\\nd_tangled_shorts_w_angel.mesh",
+      "from": "material_01_multilayer",
+      "to": "nd_tangled_shorts_a",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\rosslin\\mockingbird.mesh",
+      "from": "material_01_multilayer",
+      "to": "birdblack",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\rosslin\\negan_f.mesh",
+      "from": "material_01_multilayer",
+      "to": "neganfberry",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\rosslin\\fem\\plaguefboots.mesh",
+      "from": "material_01_multilayer",
+      "to": "plaguefboots",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\rosslin\\fem\\plaguefbelt.mesh",
+      "from": "material_01_multilayer",
+      "to": "plaguefbelt",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\rosslin\\fem\\plaguefjacket.mesh",
+      "from": "material_01_multilayer",
+      "to": "plaguefcoat",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\rosslin\\fem\\plaguefbody.mesh",
+      "from": "material_01_multilayer",
+      "to": "plaguefbody",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\rosslin\\fem\\plaguefmask.mesh",
+      "from": "material_01_multilayer",
+      "to": "plaguefmask",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\rosslin\\fem\\plaguefhood.mesh",
+      "from": "material_01_multilayer",
+      "to": "plaguefhood",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\rosslin\\fem\\plaguefgloves.mesh",
+      "from": "material_01_multilayer",
+      "to": "plaguefgloves",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\rosslin\\shaundis.mesh",
+      "from": "material_01_multilayer",
+      "to": "shaundiblack",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    },
+    {
+      "path": "base\\hyst\\hyst_sandal_glam.mesh",
+      "from": "material_01_multilayer",
+      "to": "gold_mat",
+      "rule": "Missing references limited to <=3 vertex/index slots, slots outside render chunks, or numbered appearance_N stubs with every slot missing; all named real material references unchanged; target backed and parsed in every deployed provider"
+    }
+  ],
+  "mappingCount": 300
+}

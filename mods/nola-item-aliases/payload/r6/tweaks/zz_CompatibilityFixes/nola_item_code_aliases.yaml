@@ -1,0 +1,12 @@
+# Preserve the official Angel collection records and restore current standalone item IDs.
+Items.nd_alt_pants2_default_black:
+  $base: Items.nd_alt_pants2_defaultblack
+
+Items.nd_alt_pants2_default_blue:
+  $base: Items.nd_alt_pants2_defaultblue
+
+Items.nd_alt_pants_default_black:
+  $base: Items.nd_alt_pants_defaultblack
+
+Items.nd_alt_pants_default_blue:
+  $base: Items.nd_alt_pants_defaultblue
